@@ -4,3 +4,5 @@ i = i ++;
 
 
 i  = new ;
+
+hi kem cho
